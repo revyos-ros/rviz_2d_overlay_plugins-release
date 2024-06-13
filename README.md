@@ -1,3 +1,28 @@
+## rviz_2d_overlay_plugins (jazzy) - 1.3.0-4
+
+The packages in the `rviz_2d_overlay_plugins` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rviz_2d_overlay_plugins --override-release-repository-push-url git@github.com:revyos-ros/rviz_2d_overlay_plugins-release.git` on `Thu, 13 Jun 2024 05:23:46 -0000`
+
+These packages were released:
+- `rviz_2d_overlay_msgs`
+- `rviz_2d_overlay_plugins`
+
+Version of package(s) in repository `rviz_2d_overlay_plugins`:
+
+- upstream repository: https://github.com/teamspatzenhirn/rviz_2d_overlay_plugins.git
+- release repository: https://github.com/revyos-ros/rviz_2d_overlay_plugins-release.git
+- rosdistro version: `1.3.0-3`
+- old version: `1.3.0-3`
+- new version: `1.3.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rviz_2d_overlay_plugins (iron) - 1.3.0-1
 
 The packages in the `rviz_2d_overlay_plugins` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron --override-release-repository-push-url git@github.com:ros2-gbp/rviz_2d_overlay_plugins-release.git rviz_2d_overlay_plugins` on `Mon, 22 May 2023 17:54:25 -0000`
